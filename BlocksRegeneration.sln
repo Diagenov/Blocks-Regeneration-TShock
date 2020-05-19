@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlocksRegeneration", "BlockRegeneration\BlocksRegeneration.csproj", "{B30ED4BF-6E67-4D4D-B43C-FA31303E3CD7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B30ED4BF-6E67-4D4D-B43C-FA31303E3CD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B30ED4BF-6E67-4D4D-B43C-FA31303E3CD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B30ED4BF-6E67-4D4D-B43C-FA31303E3CD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B30ED4BF-6E67-4D4D-B43C-FA31303E3CD7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {764CC685-264B-4823-945E-B3129B0E78D0}
+	EndGlobalSection
+EndGlobal
